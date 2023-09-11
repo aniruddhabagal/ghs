@@ -12,9 +12,9 @@ function App() {
     <>
     
       <header>
-          <h1>JSS Speech and Hearing</h1>
-          <h1>Dept Of Audilogy</h1>
-          <h2>Hearing Wellness</h2>
+          <h1 id='head1'>JSS Institute Of Speech And Hearing and JSS Hospital</h1>
+          <h1 id='head2'>Department Of Audiology And Department Of Geriatrics</h1>
+          <h2 id='head3'>Hearing Wellness Clinic</h2>
       </header>
 
       <div id='row1'>

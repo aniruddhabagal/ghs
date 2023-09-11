@@ -21,7 +21,7 @@ function Box5() {
             </div>
 
             <div id='followupText'>
-                <input type="text" name="followup" id="ipFollow" />
+                <input type="text" name="followup" placeholder='Follow Up' id="ipFollow" />
             </div>
 
             
