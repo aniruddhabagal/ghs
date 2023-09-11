@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Box1 from './components/box1/Box1';
 import Box2 from './components/box2/Box2';
+import Box3 from './components/box3/Box3';
 
 
 function App() {
@@ -15,12 +16,14 @@ function App() {
     </header>
 
     <div id='row1'>
-    <Box1 />
-    <Box2 />
+      <Box1 />
+      <Box2 />
     </div>
     
+    <div id='row2'>
+      <Box3 />
+    </div>
 
-    
     </>
     
   );
