@@ -13,10 +13,14 @@ function App() {
         <h1>Dept Of Audilogy</h1>
         <h2>Hearing Wellness</h2>
     </header>
-    
+
+    <div id='row1'>
     <Box1 />
     <Box2 />
+    </div>
+    
 
+    
     </>
     
   );

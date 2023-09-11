@@ -5,21 +5,21 @@ function Box1() {
   return (
     <>
     <div id="box-1">
-            <form action="post" id="form-1">
-                <div class="op">
+            <form action="" method='post' id="form-1">
+                <div className="op">
                     <label for="op">
                         Op Number:
                     </label>
                     <input type="text" name="opNum" id="opNum" />
                 </div>
                 
-                <div class="age">
+                <div className="age">
                     <label for="age">Age:</label>
                     <input type="text" name="age" id="age" />
                 </div>
                 
 
-                <div class="gender">
+                <div className="gender">
                     <label for="Gender">Gender:</label>
                     <select name="Gender" id="gender">
                         <option value="male">Male</option>
@@ -29,7 +29,7 @@ function Box1() {
                     
                 </div>
                 
-                <div class="si">
+                <div className="si">
                     <label for="si" >Systemic Illness:</label>
                     <select name="si" id="si">
                         <option value="None">None</option>
@@ -41,7 +41,7 @@ function Box1() {
                     </select>
                 </div>
 
-                <div class="hca">
+                <div className="hca">
                     <label for="hca" >HCA:</label>
                     <input type="text" name="hca" id="hca" />
 
