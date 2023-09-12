@@ -9,7 +9,7 @@
     padding-right: 0;
     border: 3px solid black;
     border-radius: 8px;
-    width: 40%;
+    width: 30%;
     background-color: #F8DADA; 
       
 
@@ -30,6 +30,24 @@
 
         margin-top: 5%;
     }
+
+
+    
+}
+
+#check1 label {
+    width: 40%;
+}
+
+
+#check2 label{
+    /* margin-left: -10%; */
+    width: 25%;
+}
+
+
+#check2 {
+    margin-bottom: 10px;
 }
 
 @media (max-width: 900px) {

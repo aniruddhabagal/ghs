@@ -5,8 +5,10 @@ function Box5() {
   return (
     <>
 
-    <h2 id='box5Header'>Recommendation</h2>
+    
      <div id="box-5">
+
+     <h2 id='box5Header'>Recommendation</h2>
 
         <form action="" method="post" id='box5Form'>
 

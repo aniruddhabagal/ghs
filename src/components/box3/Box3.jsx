@@ -5,10 +5,10 @@ function Box3() {
   return (
     <>
 
-        <h2 id='box3Header'>Screening</h2>
+        
 
         <div id="box-3">
-            
+        <h2 id='box3Header'>Screening</h2>
 
             <div id='subhead'>
                 <div className='leftRight'><h3>Right</h3></div>
