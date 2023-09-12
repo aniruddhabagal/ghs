@@ -37,9 +37,25 @@
 
 @media (max-width: 900px) {
 
-    #box-3 {
+    #box3Header {
+        /* margin-left: auto; */
+        margin-bottom: 5px;
+        margin-left: 25px;
+    }
 
+    #box-3 {
+        margin-top: 0;
         width: 90%;
+    }
+
+    #box-3 input  {
+        margin-left: 15px;
+        width: 60%;
+    }
+
+    #box-3 select  {
+        margin-left: 15px;
+        width: 60%;
     }
 
 }

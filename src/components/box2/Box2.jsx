@@ -6,7 +6,7 @@ function Box2() {
    <>
    
 
-    <h2>MMSE</h2>
+    <h2 id='box2Header'>MMSE</h2>
     <div id="box-2">
     <form action="" method="post">
     <div className="orientation">

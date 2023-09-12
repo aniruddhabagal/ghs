@@ -4,9 +4,11 @@ import "./box4.css"
 function Box4() {
   return (
     <>
+
+    <h2 id='box4Header'>SCAP-A</h2>
     <div id="box-4">
 
-    <div><h2>SCAP-A</h2>
+    
 
     <form action="" method="post" id='box4Form'>
 
@@ -103,7 +105,7 @@ function Box4() {
 
 
 
-    </div>
+    
     </>
   )
 }

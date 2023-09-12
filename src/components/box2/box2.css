@@ -16,8 +16,14 @@
 
 @media (max-width: 900px) {
 
-    #box-2 {
+    #box2Header {
+        /* margin-left: auto; */
+        margin-bottom: 5px;
+        margin-left: 25px;
+    }
 
+    #box-2 {
+        margin-top: 0;
         width: 90%;
     }
 
