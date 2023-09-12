@@ -1,6 +1,6 @@
 #box-2 {
 
-    display: flex;
+    /* display: flex; */
     margin-right: 0px;
     margin-left: 5%;
     margin-top: 2%;
@@ -12,6 +12,12 @@
     background-color: #F8DADA; 
       
     
+}
+
+#box2Header {
+    /* display: block; */
+
+    margin-bottom: 0;
 }
 
 @media (max-width: 900px) {

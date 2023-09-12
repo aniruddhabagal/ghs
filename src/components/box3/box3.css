@@ -35,6 +35,11 @@
     margin-left: 28%;
 }
 
+#box3Header {
+
+    margin-bottom: 0;
+}
+
 @media (max-width: 900px) {
 
     #box3Header {
