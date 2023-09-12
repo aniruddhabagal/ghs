@@ -11,7 +11,7 @@ function App() {
   return (
     <>
     
-      <header>
+      <header className='header1'>
           <h1 id='head1'>JSS Institute Of Speech And Hearing and JSS Hospital</h1>
           <h1 id='head2'>Department Of Audiology And Department Of Geriatrics</h1>
           <h2 id='head3'>Hearing Wellness Clinic</h2>

@@ -127,6 +127,22 @@ input {
 }
 
 @media (max-width: 900px) {
+
+
+  .header1 #head1 {
+    font-size: 25px;
+    margin: 7% 7% 5% 7%;
+  } 
+
+  .header1 #head2 {
+    font-size: 18px;
+    /* margin: 7%; */
+  } 
+
+  .header1 #head3 {
+    font-size: 25px;
+    /* margin: 7%; */
+  } 
   
   #row1 {
     display: flex;
