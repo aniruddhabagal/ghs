@@ -18,14 +18,14 @@ function Box3() {
                 <div className='row'>
                     <div id='1'>
                         <label for="500hz">
-                            500Hz:
+                            500Hz
                         </label>
                         <input type="text" name="500hz" id="500hz" />
                         
                     </div>
                     <div id="2">
                     <label for="500hz">
-                            500Hz:
+                            500Hz
                         </label>
                         <input type="text" name="500hz" id="500hz" />
                     </div>
@@ -34,14 +34,14 @@ function Box3() {
                 <div className='row'>
                     <div id='3'>
                         <label for="1khz">
-                        1Khz
+                        1KHz
                         </label>
                         <input type="text" name="1khz" id="1khz" />
                         
                     </div>
                     <div id="4">
                     <label for="1khz">
-                        1Khz
+                        1KHz
                         </label>
                         <input type="text" name="1khz" id="1khz" />
                     </div>
@@ -50,14 +50,14 @@ function Box3() {
                 <div className='row'>
                     <div id='5'>
                     <label for="2khz">
-                        2Khz
+                        2KHz
                         </label>
                         <input type="text" name="2khz" id="2khz" />
                         
                     </div>
                     <div id="6">
                     <label for="2khz">
-                        2Khz
+                        2KHz
                         </label>
                         <input type="text" name="2khz" id="2khz" />
                     </div>
@@ -66,14 +66,14 @@ function Box3() {
                 <div className='row'>
                     <div id='7'>
                     <label for="4khz">
-                        4Khz
+                        4KHz
                         </label>
                         <input type="text" name="4khz" id="4khz" />
                         
                     </div>
                     <div id="8">
                     <label for="4khz">
-                        4Khz
+                        4KHz
                         </label>
                         <input type="text" name="4khz" id="4khz" />
                     </div>

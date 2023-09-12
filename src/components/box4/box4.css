@@ -38,3 +38,12 @@
     /* margin: 0 30% 0 4%; */
     margin-left: 25%;
 }
+
+@media (max-width: 900px) {
+
+    #box-4 {
+
+        width: 90%;
+    }
+
+}

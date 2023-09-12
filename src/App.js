@@ -20,17 +20,17 @@ function App() {
 
       <div className='rows'>
       <div id='row1'>
-        <Box1 />
-        <Box2 />
+        <Box1 className='box'/>
+        <Box2 className='box'/>
       </div>
       
       <div id='row2'>
-        <Box3 />
+        <Box3 className='box'/>
         <Box4 />
       </div>
 
       <div id='row3'>
-        <Box5 />
+        <Box5 className='box'/>
       </div>
 
       </div>

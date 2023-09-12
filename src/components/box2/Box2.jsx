@@ -4,9 +4,10 @@ import "./box2.css"
 function Box2() {
   return (
    <>
-   <div id="box-2">
+   
 
     <h2>MMSE</h2>
+    <div id="box-2">
     <form action="" method="post">
     <div className="orientation">
                     <label for="orientation">
