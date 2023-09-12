@@ -27,15 +27,16 @@
         width: 90%;
     }
 
+    #box-2 label {
+        margin-left: -1%;
+        margin-right: 15%;
+    }
+
     #box-2 input  {
         margin-left: 15px;
-        width: 60%;
+        width: 50%;
     }
 
-    #box-2 select  {
-        margin-left: 15px;
-        width: 60%;
-    }
-
+   
 
 }
