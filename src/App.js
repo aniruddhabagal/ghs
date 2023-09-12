@@ -17,6 +17,8 @@ function App() {
           <h2 id='head3'>Hearing Wellness Clinic</h2>
       </header>
 
+
+      <div className='rows'>
       <div id='row1'>
         <Box1 />
         <Box2 />
@@ -29,6 +31,8 @@ function App() {
 
       <div id='row3'>
         <Box5 />
+      </div>
+
       </div>
 
     </>

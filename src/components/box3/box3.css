@@ -19,12 +19,8 @@
     flex-direction: row;
 }
 
-#box3Form  {
-
-    input{
-        width: 20%;
-    }
-   
+.row input {
+    width: 30%;
 }
 
 #subhead {
