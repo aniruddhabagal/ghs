@@ -10,12 +10,12 @@ function Box5() {
 
         <form action="" method="post" id='box5Form'>
 
-            <div>
+            <div id='check1'>
                 <input type="checkbox" name="audioEval" id="audEv" />
                 <label for="audioEval"> Audio Evaluation</label>
             </div>
 
-            <div>
+            <div id='check2'>
                 <input type="checkbox" name="followup" id="followup" />
                 <label for="followup"> Follow Up</label>
             </div>
